@@ -33,7 +33,7 @@ services:
       context: ./frontend
       dockerfile: Dockerfile
       args:
-        - VITE_API_URL=http://localhost:8000
+        - VITE_API_URL=https://ethara-ai-1-b2xp.onrender.com
     container_name: ethara_frontend
     restart: always
     ports:

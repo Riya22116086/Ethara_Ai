@@ -18,11 +18,12 @@ from app.api.routes.order import (
 from fastapi.middleware.cors import CORSMiddleware
 
 # Verify connection first
-check_db_connection()
-Base.metadata.create_all(bind=engine)
+
+
 
 app = FastAPI()
-
+check_db_connection()
+Base.metadata.create_all(bind=engine)
 # Split origins by comma to support multiple origins if configured
 origins = [origin.strip() for origin in settings.CORS_ORIGINS.split(",") if origin.strip()]
 
