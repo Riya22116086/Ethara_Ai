@@ -18,3 +18,7 @@ A simplified, robust, and beautifully designed Inventory & Order Management Syst
 5. **Automatic Stock Reduction:** Automatically decrements item quantities from product inventory when an order succeeds.
 6. **Graceful Error Handling:** Full try-catch exception handling and toast indicators to report database constraints, connection drops, and validation rejections.
 
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/6ecf2888-a186-4158-8500-4f62fa1b8fb1" />
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/ac5dd189-d66b-4077-9f85-f70b3e01ce49" />
+<img width="1908" height="856" alt="image" src="https://github.com/user-attachments/assets/e6ce7b13-5027-4ba5-8c27-a7e8faaef0f8" />
+
