@@ -17,3 +17,4 @@ A simplified, robust, and beautifully designed Inventory & Order Management Syst
 4. **Live Inventory Checks:** Checks stock availability in real-time before order placement and warns the user if catalog quantities are exceeded.
 5. **Automatic Stock Reduction:** Automatically decrements item quantities from product inventory when an order succeeds.
 6. **Graceful Error Handling:** Full try-catch exception handling and toast indicators to report database constraints, connection drops, and validation rejections.
+
